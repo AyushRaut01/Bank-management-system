@@ -69,8 +69,8 @@ Welcome to the Bank Management System, a Java web application built using JSP an
    git clone https://github.com/your-username/BankManagementSystem-JSP-Servlet.git
    ```
 2. Configure your database settings as shown in Schema diagram
-   ![Schema](<img width="827" height="328" alt="Screenshot 2025-07-23 160705" src="https://github.com/user-attachments/assets/2ae0dec8-41dd-468e-aedc-3b141d41ce8c" />
-)
+   <img width="827" height="328" alt="Screenshot 2025-07-23 160705" src="https://github.com/user-attachments/assets/2ae0dec8-41dd-468e-aedc-3b141d41ce8c" />
+
 3. Build the project using Maven:
    ```bash
    mvn clean install
