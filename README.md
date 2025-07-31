@@ -4,12 +4,12 @@
 
 
 Welcome to the Bank Management System, a Java web application built using JSP and Servlet technologies. This project provides a comprehensive system for managing bank operations, catering to both employees and customers.
-![Login Page](<img width="1824" height="805" alt="Screenshot 2025-07-31 202624" src="https://github.com/user-attachments/assets/2aaf88cc-bafd-40a2-a747-28d4ff335093" />
-)
 
-![Customer portal]<img width="1872" height="789" alt="Screenshot 2025-07-31 202824" src="https://github.com/user-attachments/assets/8c477d8b-ac4f-4c18-a005-6f3eb4388974" />
+<img width="1824" height="805" alt="Screenshot 2025-07-31 202624" src="https://github.com/user-attachments/assets/2aaf88cc-bafd-40a2-a747-28d4ff335093" />
 
-![Deposit view]<img width="1787" height="822" alt="Screenshot 2025-07-31 203803" src="https://github.com/user-attachments/assets/f4a96f59-c480-4a21-aeff-860b04183af9" />
+<img width="1872" height="789" alt="Screenshot 2025-07-31 202824" src="https://github.com/user-attachments/assets/8c477d8b-ac4f-4c18-a005-6f3eb4388974" />
+
+<img width="1787" height="822" alt="Screenshot 2025-07-31 203803" src="https://github.com/user-attachments/assets/f4a96f59-c480-4a21-aeff-860b04183af9" />
 
 
 ## Features
